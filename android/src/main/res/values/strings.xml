@@ -104,7 +104,7 @@
     <string name="all_types">All Types</string>
 
     <!-- Shown in a drop-down list on the Video Library screen, indicating that videos from all
-    I/O years are being displayed. -->
+    Startup years are being displayed. -->
     <string name="all_years">All Years</string>
 
     <!-- Name of the application, shown in the application's title bar. -->
@@ -190,7 +190,7 @@
     <string name="description_debug" translatable="false">Debug and tests</string>
 
     <!-- Menu item that takes the user to a page that shows a list of Startup Extended events. -->
-    <string name="description_i_o_extended">I/O Extended</string>
+    <string name="description_i_o_extended">Startup Extended</string>
 
     <!-- Menu item that takes the user to the conference venue map screen -->
     <string name="description_map">Map</string>
@@ -244,16 +244,16 @@
     </string>
 
     <!-- Label for view that allows user to launch Google+ with the enclosed hashtag. -->
-    <string name="social_gplus_devs" translatable="false">+googledevelopers</string>
+    <string name="social_gplus_devs" translatable="false">+Startup</string>
 
-    <!-- Accessibility description for link to the "Google Developers" GPlus page. -->
-    <string name="social_gplus_devs_content_description">Go to Google Developers on Google Plus</string>
+    <!-- Accessibility description for link to the "Startup Founders" GPlus page. -->
+    <string name="social_gplus_devs_content_description">Go to Startup Founders on Google Plus</string>
 
     <!-- Label for view that allows user to launch Twitter with the enclosed 'mention' string. -->
-    <string name="social_twitter_devs" translatable="false">\@googledevs</string>
+    <string name="social_twitter_devs" translatable="false">\@Startup</string>
 
-    <!-- Accessibility description for link to the "Google Developers" Twitter page. -->
-    <string name="social_twitter_devs_content_description">Go to Google Developers on Twitter</string>
+    <!-- Accessibility description for link to the "Startup Founders" Twitter page. -->
+    <string name="social_twitter_devs_content_description">Go to Startup Founders on Twitter</string>
 
     <!-- Label for view that allows users to launch Google+ or Twitter with the 'extended'
     hashtag. -->
@@ -283,17 +283,17 @@
         Go to Twitter with request hashtag
     </string>
 
-    <!-- Accessibility description for the IO15 logo that is not a link. -->
-    <string name="io15_logo_not_clickable">IO15 logo not clickable</string>
+    <!-- Accessibility description for the Startup15 logo that is not a link. -->
+    <string name="io15_logo_not_clickable">Startup15 logo not clickable</string>
 
-    <!-- Accessibility description for the IO15 extended logo that is not a link. -->
-    <string name="io15_extended_logo_not_clickable">IO15 extended logo not clickable</string>
+    <!-- Accessibility description for the Startup15 extended logo that is not a link. -->
+    <string name="io15_extended_logo_not_clickable">Startup15 extended logo not clickable</string>
 
-    <!-- Accessibility description for the IO15 request logo that is not a link. -->
-    <string name="io15_request_logo_not_clickable">IO15 request logo not clickable</string>
+    <!-- Accessibility description for the Startup15 request logo that is not a link. -->
+    <string name="io15_request_logo_not_clickable">Startup15 request logo not clickable</string>
 
-    <!-- Accessibility description for the I/O logo that is not a link. -->
-    <string name="io_logo_not_clickable">IO logo not clickable</string>
+    <!-- Accessibility description for the Startup logo that is not a link. -->
+    <string name="io_logo_not_clickable">Startup logo not clickable</string>
 
     <!-- Accessibility description saying that the app's navigation drawer has been closed -->
     <string name="drawer_close">Close navigation drawer</string>
@@ -339,11 +339,11 @@
     group have already ended. -->
     <string name="ended_sessions">Ended sessions</string>
 
-    <!-- Message that appears as feedback when the user has indicated that they are attending I/O in person. -->
-    <string name="explore_attending_in_person_toast">Attending I/O in person (you can change this in Settings)</string>
+    <!-- Message that appears as feedback when the user has indicated that they are attending Startup in person. -->
+    <string name="explore_attending_in_person_toast">Attending Startup in person (you can change this in Settings)</string>
 
-    <!-- Message that appears as feedback when the user has indicated that they are attending I/O remotely. -->
-    <string name="explore_attending_remotely_toast">Attending I/O remotely (you can change this in Settings)</string>
+    <!-- Message that appears as feedback when the user has indicated that they are attending Startup remotely. -->
+    <string name="explore_attending_remotely_toast">Attending Startup remotely (you can change this in Settings)</string>
 
     <!-- Label for a button to answer the question "Would you like to send feedback
     about this session?" which, when clicked, allows the user to send their feedback (ratings
@@ -363,7 +363,7 @@
 
     <!-- List dropdown item on the Video Library screen allowing the user to choose to see
     the videos from a particular year of Startup. -->
-    <string name="google_i_o_year">I/O <xliff:g id="year">%1$d</xliff:g></string>
+    <string name="google_i_o_year">Startup <xliff:g id="year">%1$d</xliff:g></string>
 
     <!-- Label on a button that the user can click to dismiss an reminder or information message.
     For example "To scan an attendee's badge, hold your phone close to the badge for a few
@@ -479,8 +479,8 @@
     <!-- Menu item to open the My Schedule screen [CHAR_LIMIT=20] -->
     <string name="navdrawer_item_my_schedule">My Schedule</string>
 
-    <!-- Menu item to open the Explore Screen with the Live I/O card [CHAR_LIMIT=20] -->
-    <string name="navdrawer_item_io_live">I/O Live</string>
+    <!-- Menu item to open the Explore Screen with the Live Startup card [CHAR_LIMIT=20] -->
+    <string name="navdrawer_item_io_live">Startup Live</string>
 
     <!-- Menu item to open the Settings screen [CHAR_LIMIT=20] -->
     <string name="navdrawer_item_settings">Settings</string>
@@ -488,11 +488,11 @@
     <!-- Menu item to start the Sign In flow [CHAR_LIMIT=20] -->
     <string name="navdrawer_item_sign_in">Sign in</string>
 
-    <!-- Menu item to open a screen that lists I/O related hashtags. Each hashtag, when clicked, will
+    <!-- Menu item to open a screen that lists Startup related hashtags. Each hashtag, when clicked, will
     open Google+ stream of posts that uses the hashtag [CHAR_LIMIT=20] -->
     <string name="navdrawer_item_social">Social</string>
 
-    <!-- Menu item to open a list of current and past I/O videos [CHAR_LIMIT=20] -->
+    <!-- Menu item to open a list of current and past Startup videos [CHAR_LIMIT=20] -->
     <string name="navdrawer_item_video_library">Videos</string>
 
     <!-- Menu item to open the debugging screen on debug builds [CHAR_LIMIT=20] -->
@@ -500,11 +500,11 @@
 
     <!-- Text indicator that appears below the user's name, showing that they are
     attending the conference in person in San Francisco. -->
-    <string name="navdrawer_status_attending_in_person">Attending I/O in person</string>
+    <string name="navdrawer_status_attending_in_person">Attending Startup in person</string>
 
     <!-- Text indicator that appears below the user's name, showing that they are
     attending the conference remotely via live streaming. -->
-    <string name="navdrawer_status_attending_remotely">Attending I/O remotely</string>
+    <string name="navdrawer_status_attending_remotely">Attending Startup remotely</string>
 
     <!-- String used to wrap navigation item descriptions for a11y users to indicate the user
          interface element is a menu item. -->
@@ -565,7 +565,7 @@
     <string name="others">Others</string>
 
     <!-- An application permission (this permission allows the application to modify the Google
-    I/O schedule data). Shows on a permissions dialog screen. -->
+    Startup schedule data). Shows on a permissions dialog screen. -->
     <string name="permission_write">Modify Startup schedule data</string>
 
     <!-- Description of the Google+ +1 button for accessibility screen readers -->
@@ -618,15 +618,15 @@
     <!-- Summary in the Settings screen for the "Synchronize my schedule with Google Calendar" option -->
     <string name="pref_sync_with_calendar_title">Sync with Google Calendar</string>
 
-    <!-- Text of a card shown in the session explorer that asks the user if he wants to see I/O
+    <!-- Text of a card shown in the session explorer that asks the user if he wants to see Startup
     extended events in his area. "Browse events" and "No, thanks" are the buttons shown in the card -->
-    <string name="question_i_o_extended">Would you like to know more about I/O Extended events happening near your location?</string>
+    <string name="question_i_o_extended">Would you like to know more about Startup Extended events happening near your location?</string>
 
-    <!-- Text of a card shown in the session explorer that asks the user if he will be attending I/O
+    <!-- Text of a card shown in the session explorer that asks the user if he will be attending Startup
     in person or remotely. "Remotely" and "In person" are the buttons shown in the card -->
-    <string name="question_local_or_remote">Are you attending I/O remotely or in person in San Francisco?</string>
+    <string name="question_local_or_remote">Are you attending Startup remotely or in person in San Francisco?</string>
 
-    <!-- Text of a card shown in the Explore I/O screen that asks the user if they want to configure
+    <!-- Text of a card shown in the Explore Startup screen that asks the user if they want to configure
          the conference WiFi. "Not now" and "Yes, please" are options show on the card -->
     <string name="question_setup_wifi_card_text"><![CDATA[
         <b>Conference Wi-Fi</b><br/>
@@ -797,8 +797,8 @@ user updates the rating. -->
     <!-- Hint for a play/pause video button -->
     <string name="session_livestream_play_pause">Play / Pause</string>
 
-    <!-- Actionbar title for I/O Live -->
-    <string name="session_livestream_title">I/O Live</string>
+    <!-- Actionbar title for Startup Live -->
+    <string name="session_livestream_title">Startup Live</string>
 
     <!-- Notification text that a session is starting in some number of minutes -->
     <string name="session_notification_text_1">starting in <xliff:g id="remaining_time">%1$d</xliff:g> min.</string>
@@ -821,8 +821,8 @@ user updates the rating. -->
     <!-- Button text indicating the user would like us to set up wifi access -->
     <string name="setup_wifi_yes">Yes!</string>
 
-    <!-- Re-share template text indicating the user is watching I/O Live -->
-    <string name="share_livestream_template">Watching I/O Live: \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+    <!-- Re-share template text indicating the user is watching Startup Live -->
+    <string name="share_livestream_template">Watching Startup Live: \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
 
     <!-- Re-share template text indicating the user is at a particular session -->
     <string name="share_template">Check out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
@@ -929,13 +929,13 @@ user updates the rating. -->
     <string name="welcome_text">Before we begin, here is some important legal information regarding your use of this app. This will only take a minute!</string>
 
     <!-- Short text introducing the code of conduct for attendees coming in person -->
-    <string name="welcome_conduct_title">I/O Community Best Practices</string>
+    <string name="welcome_conduct_title">Startup Community Best Practices</string>
 
     <!-- Short text asking if the user is attending Startup in person -->
     <string name="welcome_attending">Attending in Person?</string>
 
     <!-- Medium-length welcome text asking if the user is attending Startup in person -->
-    <string name="welcome_attending_text">Are you attending I/O remotely or in person in San Francisco?</string>
+    <string name="welcome_attending_text">Are you attending Startup remotely or in person in San Francisco?</string>
 
     <!-- Short text asking if they're interested in what's around them -->
     <string name="welcome_around">Around you</string>
@@ -1006,7 +1006,7 @@ user updates the rating. -->
 
     <!-- BEGIN Explore Message Card User Messages -->
     <string name="explore_io_msgcards_ask_opt_in"
-            description="This message is displayed on the Explore I/O screen to ask users whether
+            description="This message is displayed on the Explore Startup screen to ask users whether
             they would like to opt in to receive messages regarding the conference."><![CDATA[
         <b>Conference Messages</b><br/>
        Would you like to opt-in to receive important messages about the conference? Messages are time based and may include promotional messages from partners.]]></string>
@@ -1016,13 +1016,13 @@ user updates the rating. -->
          event information."><![CDATA[
         <b>Conference Credentials</b><br>
         Each attendee will receive a non-transferable NFC enabled wristband this year. Your
-        wristband & I/O badge will allow you access to Keynote, Sessions, Sandbox, and After
+        wristband & Startup badge will allow you access to Keynote, Sessions, Sandbox, and After
         Hours party. Remember to wear it at all times.
     ]]>
     </string>
 
     <string name="explore_io_msgcards_after_hours_card"
-        description="This text is shown to a user when they are in the Explore I/O screen while at
+        description="This text is shown to a user when they are in the Explore Startup screen while at
         the conference. It gives them information about an afternoon event on the schedule."><![CDATA[
         <b>After Hours</b><br></br>
         This is a party you don\'t want to miss! Attendees are invited to enjoy food, drinks,
@@ -1032,7 +1032,7 @@ user updates the rating. -->
     </string>
 
     <string name="explore_io_msgcards_keynote_access_card"
-        description="This text is shown to a user when they are in the Explore I/O screen while at
+        description="This text is shown to a user when they are in the Explore Startup screen while at
         the conference. It gives them information about the keynote event on the schedule."><![CDATA[
         <b>Keynote Access</b><br>
         Your wristband color denotes your keynote access.<br><br>
@@ -1046,12 +1046,12 @@ user updates the rating. -->
     </string>
 
     <string name="explore_io_msgcards_wifi_feedback"
-            decscription="Question presented to users on a card in the Explore I/O screen if they have are using the conference Wifi.">Have connectivity feedback? Share it with us on social channels via the <b>#io15wifi</b> hashtag.</string>
+            decscription="Question presented to users on a card in the Explore Startup screen if they have are using the conference Wifi.">Have connectivity feedback? Share it with us on social channels via the <b>#io15wifi</b> hashtag.</string>
 
-    <!-- This is used on the Explore I/O message cards to answer yes to a particular message -->
+    <!-- This is used on the Explore Startup message cards to answer yes to a particular message -->
     <string name="explore_io_msgcards_answer_yes">Sure, let\'s do it!</string>
 
-    <!-- This is used on the Explore I/O message cards to answer no to a particular message -->
+    <!-- This is used on the Explore Startup message cards to answer no to a particular message -->
     <string name="explore_io_msgcards_answer_no">No thanks</string>
 
     <!-- This string is presented to users when they attempt to click something that indicates they
@@ -1062,10 +1062,10 @@ user updates the rating. -->
 
     <!-- This string is the title of a notification shown to the user when Google Play
         services can't connect. -->
-    <string name="app_data_notification_resolution_title">I/O App needs permission</string>
+    <string name="app_data_notification_resolution_title">Startup App needs permission</string>
     <!-- This string is the message of the notification shown to the user when Google Play services
          can't connect from a background sync. -->
-    <string name="app_data_notification_resolution_content">I/O App needs action to complete background sync.</string>
+    <string name="app_data_notification_resolution_content">Startup App needs action to complete background sync.</string>
 
     <!-- Generic error message used for errors that should never happen. This explains to the user
          that we can't execute the request when they click a button or touch a part of the screen
