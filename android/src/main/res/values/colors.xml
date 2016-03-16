@@ -31,7 +31,7 @@
     <color name="cyan_a700_plus">#FF671405</color>
 
     <!-- App Primary View Colors (might be deprecated). -->
-    <color name="app_primary_accent">#FFE66751</color>
+    <color name="app_primary_accent">#FF9A1D08</color>
     <color name="app_secondary_accent">#1A000000</color>
     <color name="app_primary_text">#444444</color>
     <color name="app_secondary_text">#444444</color>
@@ -46,7 +46,7 @@
     <color name="app_body_text_1_inverse">#deffffff</color>
     <color name="app_body_text_2_inverse">#8affffff</color>
     <color name="flat_button_text">#ffAB4C3C</color>
-    <color name="text_on_primary">#ff9A1D08</color>
+    <color name="text_on_primary">#ffffffff</color>
     <color name="subtitle_on_primary">#de9A1D08</color>
     <color name="unselected_tab_on_primary">#b3671405</color>
 
