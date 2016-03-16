@@ -23,20 +23,20 @@
     <color name="io15_dark_grey">#FF455A64</color>
     <color name="io15_grey">#FF607D8B</color>
     <color name="io15_light_grey">#FF90A4AE</color>
-    <color name="io15_aqua_dark">#FF4DD0E1</color>
-    <color name="io15_aqua_light">#FF80DEEA</color>
+    <color name="io15_aqua_dark">#FFAB4C3C</color>
+    <color name="io15_aqua_light">#FFE66751</color>
     <color name="io15_blue_grey_100">#ffcfd8dc</color>
     <color name="io15_white">#FFFFFFFF</color>
     <color name="card">#fff</color>
-    <color name="cyan_a700_plus">#ff006574</color>
+    <color name="cyan_a700_plus">#FF671405</color>
 
     <!-- App Primary View Colors (might be deprecated). -->
-    <color name="app_primary_accent">#FF26C6DA</color>
+    <color name="app_primary_accent">#FFE66751</color>
     <color name="app_secondary_accent">#1A000000</color>
     <color name="app_primary_text">#444444</color>
     <color name="app_secondary_text">#444444</color>
     <color name="app_white">#FFFEFEFE</color>
-    <color name="app_io_logo_tint">#FF26C6DA</color>
+    <color name="app_io_logo_tint">#FFE66751</color>
     <color name="divider">#1f000000</color>
 
     <!-- App Primary Text Colors (might be deprecated). -->
@@ -45,10 +45,10 @@
     <color name="app_body_text_disabled">#44000000</color>
     <color name="app_body_text_1_inverse">#deffffff</color>
     <color name="app_body_text_2_inverse">#8affffff</color>
-    <color name="flat_button_text">#ff008094</color>
-    <color name="text_on_primary">#ff004446</color>
-    <color name="subtitle_on_primary">#de004446</color>
-    <color name="unselected_tab_on_primary">#b3004446</color>
+    <color name="flat_button_text">#ffAB4C3C</color>
+    <color name="text_on_primary">#ff9A1D08</color>
+    <color name="subtitle_on_primary">#de9A1D08</color>
+    <color name="unselected_tab_on_primary">#b3671405</color>
 
     <!-- Session Detail colors. -->
     <color name="session_detail_tag_text_color">@color/flat_button_text</color>
@@ -69,11 +69,11 @@
     <!-- end deprecated -->
 
     <color name="theme_primary">@color/app_primary_accent</color>
-    <color name="theme_primary_dark">#00BCD4</color>
-    <color name="theme_primary_light">#7986cb</color>
+    <color name="theme_primary_dark">#671405</color>
+    <color name="theme_primary_light">#AB4C3C</color>
 
-    <color name="theme_accent_1">#00b0ff</color>
-    <color name="theme_accent_1_light">#8ad4fa</color>
+    <color name="theme_accent_1">#671405</color>
+    <color name="theme_accent_1_light">#E66751</color>
 
     <color name="theme_accent_2">#e91e63</color>
 
@@ -128,16 +128,16 @@
     <color name="my_schedule_past">#95a1a6</color>
     <color name="my_schedule_hour_header_default">#de455a64</color>
     <color name="my_schedule_hour_header_finished">#b8455a64</color>
-    <color name="my_schedule_icon_default">#ff07434d</color>
-    <color name="my_schedule_icon_finished">#ff49757c</color>
-    <color name="my_schedule_session_title_default">#de07434d</color>
-    <color name="my_schedule_session_title_finished">#b807434d</color>
+    <color name="my_schedule_icon_default">#ff671405</color>
+    <color name="my_schedule_icon_finished">#ff9A1D08</color>
+    <color name="my_schedule_session_title_default">#de671405</color>
+    <color name="my_schedule_session_title_finished">#b8671405</color>
 
     <color name="light_grey">#fff0f0f0</color>
     <color name="lighter_gray">#ddd</color>
 
     <!-- video lib -->
-    <color name="video_title">#de07434d</color>
+    <color name="video_title">#de9A1D08</color>
     <color name="filter_text">@color/app_primary_text</color>
     <color name="video_scrim_watched">#b3f1f1f1</color>
 
@@ -152,9 +152,9 @@
     <color name="social_text_color">@color/io15_white</color>
 
     <!-- Colors used in the Video Library or Explore list view -->
-    <color name="item_text_primary_color">#ff275B64</color>
-    <color name="item_text_secondar_color">#ff699B9E</color>
-    <color name="button_dark">#3B5B63</color>
+    <color name="item_text_primary_color">#ff671405</color>
+    <color name="item_text_secondar_color">#ff671405</color>
+    <color name="button_dark">#AB4C3C</color>
 
     <!-- Colors used in the Explore Sessions filter drawer -->
     <color name="explore_sessions_body_color">#444444</color>
